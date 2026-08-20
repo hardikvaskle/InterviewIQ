@@ -14,7 +14,7 @@ const app = express()
 
 
  app.use(cors({
-     origin: "http://localhost:5173",
+     origin: "https://interviewiq-client-10fg.onrender.com",
       credentials:true
  }))
 

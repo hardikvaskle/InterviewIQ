@@ -44,7 +44,7 @@ function Navbar() {
           <div className = 'bg-black text-white p-2 rounded-lg'>
             <BsRobot size={18}/>
           </div>
-          <h1 className='font-semibold hidden md:block text-lg'>
+          <h1 className='font-semibold text-lg'>
             InterviewIQ.AI</h1>
         </div>
 
